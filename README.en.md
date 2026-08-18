@@ -26,10 +26,6 @@ The projects that best represent how I work—and that I most want to keep impro
 
 🕷️ [**job-hunter-web**](https://github.com/Icey-Lan/job-hunter-web) — A local-first job collection and tracking tool for Boss Zhipin, with batch queues, human takeover for verification challenges, retries, application stages, and Excel/CSV export.
 
-🛡️ [**icey-skills / skill-reviewer**](https://github.com/Icey-Lan/icey-skills) — A third-party Agent Skill security reviewer that explains risks such as excessive permissions, data exfiltration, sensitive-file access, and dangerous commands in plain language.
-
-🎙️ [**voice-diary**](https://github.com/Icey-Lan/voice-diary) — An AI diary that guides reflection through voice conversations and turns them into warm, essay-like diary cards.
-
 ---
 
 ## 🧭 Questions I care about

@@ -26,10 +26,6 @@
 
 🕷️ [**job-hunter-web**](https://github.com/Icey-Lan/job-hunter-web) — 本地运行的 Boss 直聘岗位采集与追踪工具，支持批量队列、验证码人工接管、失败重试、状态流转和 Excel/CSV 导出。
 
-🛡️ [**icey-skills / skill-reviewer**](https://github.com/Icey-Lan/icey-skills) — 面向非技术用户的第三方 Agent Skill 安全审查器，用直白语言解释越权、数据外传、敏感文件访问和危险命令等风险。
-
-🎙️ [**voice-diary**](https://github.com/Icey-Lan/voice-diary) — 通过语音对话引导回顾生活，并把对话整理成散文式日记卡片的 AI 日记应用。
-
 ---
 
 ## 🧭 我关心的问题
